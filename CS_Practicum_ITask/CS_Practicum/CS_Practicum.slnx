@@ -3,5 +3,5 @@
     <File Path=".gitignore" />
     <File Path="README.md" />
   </Folder>
-  <Project Path="CS_Practicum/CS_Practicum.csproj" Id="5711aa3a-8d86-4a9b-b144-2b0bb82fdf90" />
+  <Project Path="CS_Practicum/CS_Practicum.csproj" />
 </Solution>

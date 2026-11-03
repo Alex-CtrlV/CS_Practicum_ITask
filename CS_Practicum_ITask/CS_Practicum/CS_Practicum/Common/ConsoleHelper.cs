@@ -3,13 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CSharpPracticum.Menu;
-    
 
-namespace CSharpPracticum.Common
+namespace CS_Practicum.Common
     {
-    public class ConsoleHelper
+    internal class ConsoleHelper
         {
-       
         }
     }

@@ -1,5 +1,4 @@
-﻿using CS_Practicum.Tasks.Level1;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,8 +17,6 @@ namespace CSharpPracticum.Menu
             Console.WriteLine("4. Выход");
             Console.Write("Выберите уровень: ");
             Console.ReadLine();
-
             }
-
         }
     }
