@@ -1,12 +1,14 @@
-﻿using CSharpPracticum.Menu;
+﻿using CS_Practicum.Menu;
 
-namespace CSharpPracticum
+namespace CS_Practicum
     {
-    internal class Program
+    public class Program
         {
         static void Main(string[] args)
             {
             new MenuRunner().Run();
+
             }
+        
         }
     }
